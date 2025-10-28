@@ -17,5 +17,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 ## OUTPUT
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/d80fb855-72a3-47e8-a8b6-007b0e12917d" />
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
